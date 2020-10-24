@@ -12,7 +12,7 @@ app = Flask(__name__)
 #     'awesome', 'terrific', 'fantastic', 'neato', 'fantabulous', 'wowza',
 #     'oh-so-not-meh', 'brilliant', 'ducky', 'coolio', 'incredible',
 #     'wonderful', 'smashing', 'lovely']
-
+#ok
 
 @app.route('/')
 def start_here():
